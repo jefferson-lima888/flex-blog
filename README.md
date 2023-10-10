@@ -33,9 +33,7 @@ Inicie o servidor
 
 ## Screenshots
 
-![App Screenshot](![flexblog](https://github.com/jefferson-lima888/flex-blog/assets/67652679/e9a6de26-b875-4f9e-8f84-0fc1324adece)
-)
-)
+![flexblog](https://github.com/jefferson-lima888/flex-blog/assets/67652679/e9a6de26-b875-4f9e-8f84-0fc1324adece)
 
 
 ## Stack utilizada
