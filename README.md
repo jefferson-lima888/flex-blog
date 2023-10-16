@@ -39,12 +39,3 @@ Inicie o servidor
 ## Stack utilizada
 
 **Front-end:** HTML, CSS
-
-
-
-## Aprendizados
-
-Aprendi a criar um layout responsivo no CSS utilizando apenas as propriedades do Flexbox.
-
-Utilizando os fundamentos e reconhecendo todas as propriedades e o que elas fazem no CSS. 
-
